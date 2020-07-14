@@ -67,9 +67,5 @@ Run the MazeSolver.java with argument line:
 Example:
 > src/example.txt y
 
-### Authors
-* Youhan Xia - Lecturer and Skeleton code provider
-* Jeffrey Chan - Lecturer and Skeleton code provider
-* Yohanes Keanoe - Implement Algorithm
 
 
