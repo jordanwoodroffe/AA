@@ -1,6 +1,5 @@
 # Maze Algorithm
-
-A project for my second year of Computer Science Algorithm and Analysis. The project is to implement maze generation and solver algorithm. 
+Maze generation and solver algorithm. 
 
 The maze have 3 types of map
 * Normal maze
