@@ -25,15 +25,6 @@ The maze solver algorithm include 2 algorithm,
 ***Tunnel Maze***  
 ![tunnel](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/tunnel-maze.png)
 
-***Kruskal's Maze Generation Algorithm***  
-![kruskal](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/kruskal-maze.png)
-
-***Prim's Maze Generation Algorithm***  
-![prim](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/modiprim-maze.png)
-
-***Recursive Backtracking Maze Generation Algorithm***  
-![recur](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/recurback-maze.png)
-
 ***Recursive Backtracking Maze Solver Algorithm***  
 ![recur](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/recur-solve.gif)
 
