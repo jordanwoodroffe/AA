@@ -22,9 +22,6 @@ The maze solver algorithm include 2 algorithm,
 ***Hexagon Maze***  
 ![hex](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/hex-maze.png)
 
-***Tunnel Maze***  
-![tunnel](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/tunnel-maze.png)
-
 ***Recursive Backtracking Maze Solver Algorithm***  
 ![recur](https://github.com/ZankiMaru/maze_algorithm/blob/master/showcase/recur-solve.gif)
 
